@@ -1,3 +1,4 @@
+PHP_INI_SCAN_DIR=/opt/app-root/src
 PHPRC=/opt/app-root/src/config
 DISPLAY_STARTUP_ERRORS=ON
 TRACK_ERRORS=ON
