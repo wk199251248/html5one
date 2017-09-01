@@ -1,4 +1,4 @@
-PHPRC=/home/php.ini
+PHPRC=/opt/app-root/src/config
 DISPLAY_STARTUP_ERRORS=ON
 TRACK_ERRORS=ON
 MEMORY_LIMIT=512M
