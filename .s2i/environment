@@ -1,5 +1,5 @@
-PHP_INI_SCAN_DIR=/opt/app-root/src
-PHPRC=/opt/app-root/src/config
+PHP_INI_SCAN_DIR=/opt/app-root/config
+PHPRC=/opt/app-root/src/config/phphphphphphp
 DISPLAY_STARTUP_ERRORS=ON
 TRACK_ERRORS=ON
 MEMORY_LIMIT=512M
